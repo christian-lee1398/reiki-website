@@ -1,0 +1,15 @@
+#welcome {
+    background-color: #252525;
+}
+
+img {
+    opacity: .4;
+}
+
+.carousel-control-prev {
+    display: none;
+}
+
+.carousel-control-next {
+    display: none;
+}
